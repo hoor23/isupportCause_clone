@@ -27,8 +27,8 @@ This project is a practice clone of the iSupportCause Profile Picture Campaign. 
 
 ### Links
 
-- Solution URL: [https://github.com/hoor23/isupportCause_clone.git](https://github.com/hoor23/isupportCause_clone.git)
-- Live Site URL: [https://hoor23.github.io/isupportCause_clone/](https://hoor23.github.io/isupportCause_clone/)
+- Solution URL: [https://github.com/HooriaSaeeda/isupportCause_clone.git](https://github.com/HooriaSaeeda/isupportCause_clone.git)
+- Live Site URL: [https://hooriasaeeda.github.io/isupportCause_clone/](https://hooriasaeeda.github.io/isupportCause_clone/)
 
 ## My process
 
@@ -59,9 +59,9 @@ In future projects, I plan to:
 - Explore backend integration to create more dynamic web applications.
 
 ## Author
-- Frontend Mentor - [hoor23](https://www.frontendmentor.io/profile/hoor23)
-- Github - [hoor23](https://github.com/hoor23)
-- LinkedIn - [Hoor Seyda](www.linkedin.com/in/hoor-seyda-901176222)
+- Github - [HooriaSaeeda](https://github.com/HooriaSaeeda)
+- Frontend Mentor - [HooriaSaeeda](https://www.frontendmentor.io/profile/HooriaSaeeda)
+- Linkedin - [Hoor Seyda](linkedin.com/in/hoor-seyda-901176222)
 
 ## Acknowledgments
 
